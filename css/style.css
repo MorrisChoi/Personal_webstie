@@ -1362,6 +1362,8 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
   border-radius: 0px;
   overflow: hidden; }
   .custom-accordion .accordion-item .btn-link {
+    font-family: 'Cute Font', cursive;
+    font-size: 23px;
     display: block;
     width: 100%;
     padding: 15px 0;
